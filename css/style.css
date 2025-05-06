@@ -168,3 +168,8 @@ nav li:hover{
     justify-content: space-around;
     align-items: center;
 }
+footer{
+    background: #012941;
+    text-align: center;
+    padding: 20px;
+}
